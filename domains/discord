@@ -24,4 +24,5 @@ DOMAIN-SUFFIX,discord-activities.com,PROXY
 DOMAIN-SUFFIX,discordactivities.com,PROXY
 DOMAIN-SUFFIX,discordsays.com,PROXY
 DOMAIN-SUFFIX,discordstatus.com,PROXY
+DOMAIN-SUFFIX,voice.discord.gg,PROXY
 DOMAIN-SUFFIX,stun.discord.com,PROXY
