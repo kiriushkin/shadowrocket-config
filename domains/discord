@@ -26,12 +26,12 @@ DOMAIN-SUFFIX,discordsays.com,PROXY
 DOMAIN-SUFFIX,discordstatus.com,PROXY
 DOMAIN-SUFFIX,voice.discord.gg,PROXY
 DOMAIN-SUFFIX,stun.discord.com,PROXY
-DOMAIN-SUFFIX,35.215.0.0/16,PROXY # Brazil, Hong Kong
-DOMAIN-SUFFIX,35.213.0.0/16,PROXY # Singapore, Sydney
-DOMAIN-SUFFIX,35.214.0.0/16,PROXY # Rotterdam
-DOMAIN-SUFFIX,35.207.0.0/16,PROXY # India
-DOMAIN-SUFFIX,66.22.0.0/16,PROXY # Japan, Russia, South Africa, US Central, US East, US West, Frankfurt
-DOMAIN-SUFFIX,34.0.0.0/16,PROXY # US South
+IP-CIDR,35.215.0.0/16,PROXY # Brazil, Hong Kong
+IP-CIDR,35.213.0.0/16,PROXY # Singapore, Sydney
+IP-CIDR,35.214.0.0/16,PROXY # Rotterdam
+IP-CIDR,35.207.0.0/16,PROXY # India
+IP-CIDR,66.22.0.0/16,PROXY # Japan, Russia, South Africa, US Central, US East, US West, Frankfurt
+IP-CIDR,34.0.0.0/16,PROXY # US South
 
 # 35.215.241.208 - Brazil
 # 35.215.137.92 - Hong Kong
