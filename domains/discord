@@ -26,5 +26,24 @@ DOMAIN-SUFFIX,discordsays.com,PROXY
 DOMAIN-SUFFIX,discordstatus.com,PROXY
 DOMAIN-SUFFIX,voice.discord.gg,PROXY
 DOMAIN-SUFFIX,stun.discord.com,PROXY
+DOMAIN-SUFFIX,35.215.0.0/16,PROXY # Brazil, Hong Kong
+DOMAIN-SUFFIX,35.213.0.0/16,PROXY # Singapore, Sydney
+DOMAIN-SUFFIX,35.214.0.0/16,PROXY # Rotterdam
+DOMAIN-SUFFIX,35.207.0.0/16,PROXY # India
+DOMAIN-SUFFIX,66.22.0.0/16,PROXY # Japan, Russia, South Africa, US Central, US East, US West, Frankfurt
+DOMAIN-SUFFIX,34.0.0.0/16,PROXY # US South
 
-NETWORK,UDP,PROXY
+# 35.215.241.208 - Brazil
+# 35.215.137.92 - Hong Kong
+# 35.207.227.143 - India
+# 66.22.208.49 - Japan
+# 35.214.163.28 - Rotterdam
+# 66.22.217.31 66.22.217.15 66.22.216.25 66.22.217.189 - Russia
+# 35.213.153.161 - Singapore
+# 66.22.240.9 - South Africa
+# 35.213.221.208 - Sydney
+# 66.22.204.168 - US Central
+# 66.22.231.135 - US East
+# 34.0.142.66 - US South
+# 66.22.227.114 - US West
+# 66.22.243.188 - Frankfurt
